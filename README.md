@@ -7,11 +7,19 @@ utilizando Docker e GitHub Actions.
 - Versionamento com Git
 - Containerização com Docker
 - Automação CI/CD com GitHub Actions
+- Integração de eventos do GitHub com servidor Discord
 - Boas práticas DevOps aplicadas em um projeto real
 
+## ⚙️ Funcionalidades
+- Execução da aplicação Python em ambiente containerizado  
+- Automação do fluxo de desenvolvimento  
+- Envio automático de notificações de commit para um servidor do Discord
+- Comunicação em tempo real entre repositório e time via webhook  
+
+As mensagens enviadas ao Discord permitem acompanhar alterações no código de forma rápida e centralizada, simulando o acompanhamento de atividades em um time real.
+
 ## 🛠️ Tecnologias
-Python · Docker · GitHub Actions
+Python · Docker · Git & GitHub · GitHub Actions · Webhook do Discord
 
-Autor: Vinicius Pavarim
-
+Autor: Vinicius Pavarim  
 Licença: MIT
